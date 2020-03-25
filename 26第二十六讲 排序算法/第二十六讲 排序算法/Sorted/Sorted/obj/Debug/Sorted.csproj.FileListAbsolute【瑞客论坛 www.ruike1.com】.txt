@@ -1,0 +1,5 @@
+G:\Projects\beifeng\SuanFa\Sorted\Sorted\bin\Debug\Sorted.exe
+G:\Projects\beifeng\SuanFa\Sorted\Sorted\bin\Debug\Sorted.pdb
+G:\Projects\beifeng\SuanFa\Sorted\Sorted\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\beifeng\SuanFa\Sorted\Sorted\obj\Debug\Sorted.exe
+G:\Projects\beifeng\SuanFa\Sorted\Sorted\obj\Debug\Sorted.pdb
